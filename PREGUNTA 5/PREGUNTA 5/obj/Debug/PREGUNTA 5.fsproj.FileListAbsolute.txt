@@ -1,0 +1,10 @@
+C:\Users\Nicky\Documents\Visual Studio 2012\Projects\PREGUNTA 5\PREGUNTA 5\bin\Debug\PREGUNTA_5.exe.config
+C:\Users\Nicky\Documents\Visual Studio 2012\Projects\PREGUNTA 5\PREGUNTA 5\bin\Debug\PREGUNTA_5.XML
+C:\Users\Nicky\Documents\Visual Studio 2012\Projects\PREGUNTA 5\PREGUNTA 5\bin\Debug\PREGUNTA_5.exe
+C:\Users\Nicky\Documents\Visual Studio 2012\Projects\PREGUNTA 5\PREGUNTA 5\bin\Debug\PREGUNTA_5.pdb
+C:\Users\Nicky\Documents\Visual Studio 2012\Projects\PREGUNTA 5\PREGUNTA 5\bin\Debug\FSharp.Core.dll
+C:\Users\Nicky\Documents\Visual Studio 2012\Projects\PREGUNTA 5\PREGUNTA 5\bin\Debug\FSharp.Core.xml
+C:\Users\Nicky\Documents\Visual Studio 2012\Projects\PREGUNTA 5\PREGUNTA 5\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\Nicky\Documents\Visual Studio 2012\Projects\PREGUNTA 5\PREGUNTA 5\obj\Debug\PREGUNTA 5.fsprojResolveAssemblyReference.cache
+C:\Users\Nicky\Documents\Visual Studio 2012\Projects\PREGUNTA 5\PREGUNTA 5\obj\Debug\PREGUNTA_5.exe
+C:\Users\Nicky\Documents\Visual Studio 2012\Projects\PREGUNTA 5\PREGUNTA 5\obj\Debug\PREGUNTA_5.pdb

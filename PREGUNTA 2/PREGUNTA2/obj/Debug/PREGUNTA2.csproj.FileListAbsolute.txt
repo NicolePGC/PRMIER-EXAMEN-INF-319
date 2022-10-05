@@ -1,0 +1,9 @@
+C:\Users\Nicky\Documents\Visual Studio 2012\Projects\PREGUNTA2\PREGUNTA2\bin\Debug\PREGUNTA2.exe.config
+C:\Users\Nicky\Documents\Visual Studio 2012\Projects\PREGUNTA2\PREGUNTA2\obj\Debug\PREGUNTA2.csprojResolveAssemblyReference.cache
+C:\Users\Nicky\Documents\Visual Studio 2012\Projects\PREGUNTA2\PREGUNTA2\obj\Debug\PREGUNTA2.Form1.resources
+C:\Users\Nicky\Documents\Visual Studio 2012\Projects\PREGUNTA2\PREGUNTA2\obj\Debug\PREGUNTA2.Properties.Resources.resources
+C:\Users\Nicky\Documents\Visual Studio 2012\Projects\PREGUNTA2\PREGUNTA2\obj\Debug\PREGUNTA2.csproj.GenerateResource.Cache
+C:\Users\Nicky\Documents\Visual Studio 2012\Projects\PREGUNTA2\PREGUNTA2\bin\Debug\PREGUNTA2.exe
+C:\Users\Nicky\Documents\Visual Studio 2012\Projects\PREGUNTA2\PREGUNTA2\bin\Debug\PREGUNTA2.pdb
+C:\Users\Nicky\Documents\Visual Studio 2012\Projects\PREGUNTA2\PREGUNTA2\obj\Debug\PREGUNTA2.exe
+C:\Users\Nicky\Documents\Visual Studio 2012\Projects\PREGUNTA2\PREGUNTA2\obj\Debug\PREGUNTA2.pdb
